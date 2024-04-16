@@ -5,7 +5,7 @@
 
 이 사이트는 코인 API를 사용하여 100개의 코인 데이터를 가져와서 시각화해서 보여주는 사이트입니다.
 
-## ⚙️사용 기술
+## ⚙️사용 기술⚙️
 React, React-Router, React-Query, Recoil, Styled-Component, TypeScript
 
 ## ℹ️설명
